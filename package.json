@@ -1,0 +1,24 @@
+{
+  "name": "anycardgame_centralized_backend",
+  "version": "0.0.0",
+  "description": "single-instance backend for the anycardgame project. To be used as part of a server or local singleplayer.",
+  "main": "Controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xlf1024/anycardgame_centralized_backend.git"
+  },
+  "author": "xlf1024",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xlf1024/anycardgame_centralized_backend/issues"
+  },
+  "homepage": "https://github.com/xlf1024/anycardgame_centralized_backend#readme",
+  "dependencies": {
+    "jszip": "^3.5.0",
+    "papaparse": "^5.2.0",
+    "uuid": "^8.2.0"
+  }
+}
